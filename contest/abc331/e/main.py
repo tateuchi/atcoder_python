@@ -7,10 +7,12 @@ for _ in range(L):
     c, d = map(int, input().split())
     bad.add((c-1, d-1))
 
+s = sorted([(p, j) for j, p in enumerate(b)], reverse=True)
+
 ans = 0
 for i in range(N):
-    for j in range(M):
+    for p, j in s:
         if (i, j) not in bad:
-            ans = max(ans, a[i] + b[j])
-
+            ans = max(ans, a[i] + p)
+            break
 print(ans)
