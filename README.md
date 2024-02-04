@@ -7,10 +7,6 @@
 The VS Code extension "Remote-Containers" is intended to be used.
 
 ## Usage
-Clone this repository
- ```
- git clone https://github.com/gomatofu/atcoder_python.git
- ```
 Open in VSCode
  ```
  code atcoder_python
