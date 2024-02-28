@@ -1,0 +1,20 @@
+import sys
+def i():
+    return int(sys.stdin.readline())
+def mi():
+    return map(int, sys.stdin.readline().split())
+def li():
+    return list(map(int, sys.stdin.readline().split()))
+def s():
+    return sys.stdin.readline().strip()
+def ls(n):
+    return [list(sys.stdin.readline()) for _ in range(n)]
+
+N,M=mi()
+A=li()
+cnt = [M]*N
+for i in range(M):
+    cnt[A[i]-1] -= 1
+
+for i in range(N):
+    print(cnt[i])

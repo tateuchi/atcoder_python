@@ -1,22 +1,12 @@
-N,K=map(int,input().split())
-A=list(map(int,input().split()))
+import sys
+def i():
+    return int(sys.stdin.readline())
+def mi():
+    return map(int, sys.stdin.readline().split())
+def li():
+    return list(map(int, sys.stdin.readline().split()))
+def s():
+    return sys.stdin.readline().strip()
+def ls(n):
+    return [list(sys.stdin.readline()) for _ in range(n)]
 
-S=[0]*(N+1)
-for i in range(N):
-    S[i+1]=S[i]+A[i]
-
-R = [0]*N
-
-for i in range(N):
-    if i == 0:
-        R[i] -= 1
-    else:
-        R[i] = R[i-1]
-    while R[i] < N-1 and S[R[i]+1] - S[i] < K:
-        R[i] += 1
-
-ans = 0
-for i in range(N):
-    ans += R[i] - i + 1
-
-print(ans)

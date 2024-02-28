@@ -1,15 +1,12 @@
-from sys import stdin
+import sys
+def i():
+    return int(sys.stdin.readline())
+def mi():
+    return map(int, sys.stdin.readline().split())
+def li():
+    return list(map(int, sys.stdin.readline().split()))
+def s():
+    return sys.stdin.readline().strip()
+def ls(n):
+    return [list(sys.stdin.readline()) for _ in range(n)]
 
-N=int(stdin.readline())
-A=list(map(int,stdin.readline().split()))
-D=int(stdin.readline())
-
-left = [0]*(N+1)
-right = [0]*(N+1)
-for i in range(N):
-    left[i+1] = max(left[i],A[i])
-    right[-(i+2)] = max(right[-(i+1)],A[-(i+1)])
-
-for i in range(D):
-    L,R=map(int,stdin.readline().split())
-    print(max(left[L-1], right[R]))

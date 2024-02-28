@@ -1,18 +1,12 @@
-N,X=map(int,input().split())
-A=list(map(int,input().split()))
+import sys
+def i():
+    return int(sys.stdin.readline())
+def mi():
+    return map(int, sys.stdin.readline().split())
+def li():
+    return list(map(int, sys.stdin.readline().split()))
+def s():
+    return sys.stdin.readline().strip()
+def ls(n):
+    return [list(sys.stdin.readline()) for _ in range(n)]
 
-def func(X, A):
-    L = 0
-    R = N - 1
-    while L <= R:
-        M = (L + R) // 2
-        if A[M] == X:
-            return M
-        elif A[M] < X:
-            L = M + 1
-        else:
-            R = M - 1
-
-ans = func(X, A)
-
-print(ans+1)

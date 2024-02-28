@@ -12,7 +12,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_a",
       "directory": {
         "path": "a01",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -22,7 +23,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_b",
       "directory": {
         "path": "a02",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -32,7 +34,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_c",
       "directory": {
         "path": "a03",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -42,7 +45,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_d",
       "directory": {
         "path": "a04",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -52,7 +56,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_e",
       "directory": {
         "path": "a05",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -62,7 +67,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_ai",
       "directory": {
         "path": "a06",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -72,7 +78,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_g",
       "directory": {
         "path": "a07",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -82,7 +89,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_h",
       "directory": {
         "path": "a08",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -92,7 +100,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_i",
       "directory": {
         "path": "a09",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -102,7 +111,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_j",
       "directory": {
         "path": "a10",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -112,7 +122,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_k",
       "directory": {
         "path": "a11",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -122,7 +133,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_l",
       "directory": {
         "path": "a12",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -132,7 +144,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_m",
       "directory": {
         "path": "a13",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -142,7 +155,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_n",
       "directory": {
         "path": "a14",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -152,7 +166,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_o",
       "directory": {
         "path": "a15",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -162,7 +177,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_p",
       "directory": {
         "path": "a16",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -172,7 +188,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_q",
       "directory": {
         "path": "a17",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -182,7 +199,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_r",
       "directory": {
         "path": "a18",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -192,7 +210,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_s",
       "directory": {
         "path": "a19",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -202,7 +221,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_t",
       "directory": {
         "path": "a20",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -212,7 +232,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_u",
       "directory": {
         "path": "a21",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -222,7 +243,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_v",
       "directory": {
         "path": "a22",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -232,7 +254,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_w",
       "directory": {
         "path": "a23",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -242,7 +265,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_x",
       "directory": {
         "path": "a24",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -252,7 +276,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_y",
       "directory": {
         "path": "a25",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -262,7 +287,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_z",
       "directory": {
         "path": "a26",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -272,7 +298,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_o",
       "directory": {
         "path": "a27",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -282,7 +309,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ab",
       "directory": {
         "path": "a28",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -292,7 +320,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_aq",
       "directory": {
         "path": "a29",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -302,7 +331,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ad",
       "directory": {
         "path": "a30",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -312,7 +342,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ae",
       "directory": {
         "path": "a31",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -322,7 +353,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_af",
       "directory": {
         "path": "a32",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -332,7 +364,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ag",
       "directory": {
         "path": "a33",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -342,7 +375,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ah",
       "directory": {
         "path": "a34",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -352,7 +386,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ai",
       "directory": {
         "path": "a35",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -362,7 +397,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aj",
       "directory": {
         "path": "a36",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -372,7 +408,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ak",
       "directory": {
         "path": "a37",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -382,7 +419,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_al",
       "directory": {
         "path": "a38",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -392,7 +430,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_bn",
       "directory": {
         "path": "a39",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -402,7 +441,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_an",
       "directory": {
         "path": "a40",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -412,7 +452,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ao",
       "directory": {
         "path": "a41",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -422,7 +463,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ap",
       "directory": {
         "path": "a42",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -432,7 +474,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aq",
       "directory": {
         "path": "a43",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -442,7 +485,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ar",
       "directory": {
         "path": "a44",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -452,7 +496,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_as",
       "directory": {
         "path": "a45",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -462,7 +507,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_at",
       "directory": {
         "path": "a46",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -472,7 +518,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aw",
       "directory": {
         "path": "a49",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -482,7 +529,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/future_contest_2018_qual_a",
       "directory": {
         "path": "a50",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -492,7 +540,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ay",
       "directory": {
         "path": "a51",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -502,7 +551,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_az",
       "directory": {
         "path": "a52",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -512,7 +562,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ba",
       "directory": {
         "path": "a53",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -522,7 +573,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bb",
       "directory": {
         "path": "a54",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -532,7 +584,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bc",
       "directory": {
         "path": "a55",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -542,7 +595,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bd",
       "directory": {
         "path": "a56",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -552,7 +606,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_be",
       "directory": {
         "path": "a57",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -562,7 +617,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bf",
       "directory": {
         "path": "a58",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -572,7 +628,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bg",
       "directory": {
         "path": "a59",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -582,7 +639,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bh",
       "directory": {
         "path": "a60",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -592,7 +650,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bi",
       "directory": {
         "path": "a61",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -602,7 +661,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_am",
       "directory": {
         "path": "a62",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -612,7 +672,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_an",
       "directory": {
         "path": "a63",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -622,7 +683,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bl",
       "directory": {
         "path": "a64",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -632,7 +694,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bm",
       "directory": {
         "path": "a65",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -642,7 +705,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bn",
       "directory": {
         "path": "a66",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -652,7 +716,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bo",
       "directory": {
         "path": "a67",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -662,7 +727,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bp",
       "directory": {
         "path": "a68",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -672,7 +738,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bq",
       "directory": {
         "path": "a69",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -682,7 +749,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_br",
       "directory": {
         "path": "a70",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -692,7 +760,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bs",
       "directory": {
         "path": "a71",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -702,7 +771,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bt",
       "directory": {
         "path": "a72",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -712,7 +782,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bu",
       "directory": {
         "path": "a73",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -722,7 +793,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bv",
       "directory": {
         "path": "a74",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -732,7 +804,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bw",
       "directory": {
         "path": "a75",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -742,7 +815,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bx",
       "directory": {
         "path": "a76",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -752,7 +826,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/typical90_a",
       "directory": {
         "path": "a77",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -762,7 +837,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bz",
       "directory": {
         "path": "b01",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -772,7 +848,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ca",
       "directory": {
         "path": "b02",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -782,7 +859,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cb",
       "directory": {
         "path": "b03",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -792,7 +870,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cc",
       "directory": {
         "path": "b04",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -802,7 +881,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ce",
       "directory": {
         "path": "b06",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -812,7 +892,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_al",
       "directory": {
         "path": "b07",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -822,7 +903,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cg",
       "directory": {
         "path": "b08",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -832,7 +914,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ch",
       "directory": {
         "path": "b09",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -842,7 +925,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cj",
       "directory": {
         "path": "b11",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -852,7 +936,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ck",
       "directory": {
         "path": "b12",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -862,7 +947,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cl",
       "directory": {
         "path": "b13",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -872,7 +958,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cm",
       "directory": {
         "path": "b14",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -882,7 +969,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/dp_a",
       "directory": {
         "path": "b16",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -892,7 +980,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cp",
       "directory": {
         "path": "b17",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -902,7 +991,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cq",
       "directory": {
         "path": "b18",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -912,7 +1002,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cr",
       "directory": {
         "path": "b19",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -922,7 +1013,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs",
       "directory": {
         "path": "b20",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -932,7 +1024,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ct",
       "directory": {
         "path": "b21",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -942,7 +1035,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cv",
       "directory": {
         "path": "b23",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -952,7 +1046,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cw",
       "directory": {
         "path": "b24",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -962,7 +1057,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cy",
       "directory": {
         "path": "b26",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -972,7 +1068,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cz",
       "directory": {
         "path": "b27",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -982,7 +1079,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_ap",
       "directory": {
         "path": "b28",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -992,7 +1090,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_db",
       "directory": {
         "path": "b29",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1002,7 +1101,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dc",
       "directory": {
         "path": "b30",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1012,7 +1112,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dd",
       "directory": {
         "path": "b31",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1022,7 +1123,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_de",
       "directory": {
         "path": "b32",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1032,7 +1134,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_df",
       "directory": {
         "path": "b33",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1042,7 +1145,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dg",
       "directory": {
         "path": "b34",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1052,7 +1156,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_di",
       "directory": {
         "path": "b36",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1062,7 +1167,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dj",
       "directory": {
         "path": "b37",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1072,7 +1178,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dk",
       "directory": {
         "path": "b38",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1082,7 +1189,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dl",
       "directory": {
         "path": "b39",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1092,7 +1200,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dm",
       "directory": {
         "path": "b40",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1102,7 +1211,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dn",
       "directory": {
         "path": "b41",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1112,7 +1222,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_do",
       "directory": {
         "path": "b42",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1122,7 +1233,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dp",
       "directory": {
         "path": "b43",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1132,7 +1244,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dq",
       "directory": {
         "path": "b44",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1142,7 +1255,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dr",
       "directory": {
         "path": "b45",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1152,7 +1266,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dx",
       "directory": {
         "path": "b51",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1162,7 +1277,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dy",
       "directory": {
         "path": "b52",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1172,7 +1288,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ea",
       "directory": {
         "path": "b54",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1182,7 +1299,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_eb",
       "directory": {
         "path": "b55",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1192,7 +1310,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ec",
       "directory": {
         "path": "b56",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1202,7 +1321,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ed",
       "directory": {
         "path": "b57",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1212,7 +1332,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ee",
       "directory": {
         "path": "b58",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1222,7 +1343,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ef",
       "directory": {
         "path": "b59",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1232,7 +1354,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_eh",
       "directory": {
         "path": "b61",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1242,7 +1365,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ei",
       "directory": {
         "path": "b62",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1252,7 +1376,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/abc007_3",
       "directory": {
         "path": "b63",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1262,7 +1387,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ek",
       "directory": {
         "path": "b64",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1272,7 +1398,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_el",
       "directory": {
         "path": "b65",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1282,7 +1409,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_em",
       "directory": {
         "path": "b66",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1292,7 +1420,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_en",
       "directory": {
         "path": "b67",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1302,7 +1431,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_eo",
       "directory": {
         "path": "b68",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1312,7 +1442,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ep",
       "directory": {
         "path": "b69",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1322,7 +1453,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ey",
       "directory": {
         "path": "c01",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1332,7 +1464,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ez",
       "directory": {
         "path": "c02",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1342,7 +1475,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fa",
       "directory": {
         "path": "c03",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1352,7 +1486,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fb",
       "directory": {
         "path": "c04",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1362,7 +1497,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fc",
       "directory": {
         "path": "c05",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1372,7 +1508,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fd",
       "directory": {
         "path": "c06",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1382,7 +1519,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fe",
       "directory": {
         "path": "c07",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1392,7 +1530,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ff",
       "directory": {
         "path": "c08",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1402,7 +1541,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_ac",
       "directory": {
         "path": "c09",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1412,7 +1552,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fh",
       "directory": {
         "path": "c10",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1422,7 +1563,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fi",
       "directory": {
         "path": "c11",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1432,7 +1574,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fj",
       "directory": {
         "path": "c12",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1442,7 +1585,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fk",
       "directory": {
         "path": "c13",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1452,7 +1596,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fl",
       "directory": {
         "path": "c14",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1462,7 +1607,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fm",
       "directory": {
         "path": "c15",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1472,7 +1618,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fn",
       "directory": {
         "path": "c16",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1482,7 +1629,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fo",
       "directory": {
         "path": "c17",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1492,7 +1640,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/typical90_s",
       "directory": {
         "path": "c18",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1502,7 +1651,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fq",
       "directory": {
         "path": "c19",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -1512,7 +1662,8 @@
       "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_fr",
       "directory": {
         "path": "c20",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     }
   ]
