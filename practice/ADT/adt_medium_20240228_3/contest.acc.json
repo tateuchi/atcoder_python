@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240228_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/02/28 20:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240228_3"
+  },
+  "tasks": [
+    {
+      "id": "abc230_b",
+      "label": "C",
+      "title": "Triple Metre",
+      "url": "https://atcoder.jp/contests/adt_medium_20240228_3/tasks/abc230_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc261_b",
+      "label": "D",
+      "title": "Tournament Result",
+      "url": "https://atcoder.jp/contests/adt_medium_20240228_3/tasks/abc261_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc315_c",
+      "label": "E",
+      "title": "Flavors",
+      "url": "https://atcoder.jp/contests/adt_medium_20240228_3/tasks/abc315_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc236_c",
+      "label": "F",
+      "title": "Route Map",
+      "url": "https://atcoder.jp/contests/adt_medium_20240228_3/tasks/abc236_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc218_d",
+      "label": "G",
+      "title": "Rectangles",
+      "url": "https://atcoder.jp/contests/adt_medium_20240228_3/tasks/abc218_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

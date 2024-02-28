@@ -10,8 +10,3 @@ def s():
 def ls(n):
     return [list(sys.stdin.readline()) for _ in range(n)]
 
-N=i()
-for i in range(N):
-    print(10,end="")
-
-print(1)
