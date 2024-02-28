@@ -10,3 +10,20 @@ def s():
 def ls(n):
     return [list(sys.stdin.readline()) for _ in range(n)]
 
+from collections import deque
+
+Q=i()
+S = deque()
+
+for _ in range(Q):
+    Query=input().split()
+    
+    if Query[0] == "1":
+        S.append(Query[1])
+
+    if Query[0] == "2":
+        print(S[-1])
+
+    if Query[0] == "3":
+        S.pop()
+    
