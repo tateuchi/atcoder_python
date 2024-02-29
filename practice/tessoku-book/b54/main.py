@@ -10,3 +10,13 @@ def s():
 def ls(n):
     return [list(sys.stdin.readline()) for _ in range(n)]
 
+N=i()
+A={}
+
+cnt = 0
+for _ in range(N):
+    a=i()
+    cnt += A.get(a, 0)
+    A[a] = A.get(a, 0) + 1
+
+print(cnt)
