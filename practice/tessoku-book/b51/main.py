@@ -10,3 +10,13 @@ def s():
 def ls(n):
     return [list(sys.stdin.readline()) for _ in range(n)]
 
+from collections import deque
+
+S=s()
+d=deque()
+for i in range(len(S)):
+    if S[i] == "(":
+        d.append(i+1)
+    
+    if S[i] == ")":
+        print(d.pop(), i + 1)

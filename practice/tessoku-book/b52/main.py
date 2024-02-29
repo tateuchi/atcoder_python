@@ -10,3 +10,4 @@ def s():
 def ls(n):
     return [list(sys.stdin.readline()) for _ in range(n)]
 
+
